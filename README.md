@@ -1,4 +1,4 @@
-# Homework3
+# Password Generator
 This application is a password generator.
 User will be able to answer several questions for the specifics of their password
 Questions include:
